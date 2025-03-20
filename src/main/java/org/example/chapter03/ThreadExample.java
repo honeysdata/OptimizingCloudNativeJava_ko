@@ -11,4 +11,3 @@ public class ThreadExample {
         t.start();
     }
 }
-

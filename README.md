@@ -1,6 +1,8 @@
 # Optimizing Cloud Native Java - ko
 
 '클라우드 기반 자바 최적화' 한국어 번역판의 샘플 코드입니다.
+<p align="center">
+<img src="https://github.com/user-attachments/assets/d746a56d-28a7-4bf3-9e9d-a0e4467db9a8" width="50%">
 
 ## 1. 준비사항
 - JDK 17과 21을 기반으로 진행합니다.
